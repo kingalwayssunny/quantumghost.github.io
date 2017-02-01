@@ -30,6 +30,6 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme: jekyll-theme-architect
 gems:
   - jekyll-feed
-exclude:
-  - Gemfile
-  - Gemfile.lock
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
