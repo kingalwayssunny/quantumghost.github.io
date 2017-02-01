@@ -1,10 +1,12 @@
 # 我不喜欢自己的工作。辞职就意味着我无法胜任吗？
 
-# I Don't Like My Job. Does Quitting Mean I'm Not Mentally Strong Enough to Hack It?
+# [I Don't Like My Job. Does Quitting Mean I'm Not Mentally Strong Enough to Hack It?](http://www.inc.com/amy-morin/i-dont-like-my-job-does-quitting-mean-im-not-mentally-strong-enough-to-hack-it.html)
 
 ## _Staying in a toxic environment won't automatically make you strong._
 
 author: [Amy Morin](https://twitter.com/AmyMorinLCSW)
+
+original link: [I Don't Like My Job. Does Quitting Mean I'm Not Mentally Strong Enough to Hack It?](http://www.inc.com/amy-morin/i-dont-like-my-job-does-quitting-mean-im-not-mentally-strong-enough-to-hack-it.html)
 
 >Amy Morin is a psychotherapist, a keynote speaker, and the author of [13 Things Mentally Strong People Don't Do](http://amymorinlcsw.com/book/), a best-selling book that is being translated into more than 20 languages. [Full bio](http://www.inc.com/author/amy-morin)
 
@@ -13,6 +15,8 @@ author: [Amy Morin](https://twitter.com/AmyMorinLCSW)
 ## _在恶劣环境中工作不会自动让你变得强大_
 
 作者：[Amy Morin](https://twitter.com/AmyMorinLCSW)
+
+原文链接: [I Don't Like My Job. Does Quitting Mean I'm Not Mentally Strong Enough to Hack It?](http://www.inc.com/amy-morin/i-dont-like-my-job-does-quitting-mean-im-not-mentally-strong-enough-to-hack-it.html)
 
 >Amy Morin是一名精神治疗师，主讲人，著有畅销书[《13件精神强大的人士不会做的事》](http://amymorinlcsw.com/book/)，被翻译成超过20种语言。[详细个人介绍](http://www.inc.com/author/amy-morin)
 
