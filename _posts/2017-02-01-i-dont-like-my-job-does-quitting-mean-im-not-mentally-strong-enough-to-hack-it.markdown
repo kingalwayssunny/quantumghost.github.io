@@ -39,6 +39,7 @@ Just the other day, I received an email that read, "I finally found the mental s
 所以到底哪个是对的？辞掉你不喜欢的工作意味着你很有意志力吗？或者，真正的意志力存在于在令人痛苦的环境中坚持工作的能力中吗？当然，这取决于你的态度。
 
 ## The Environment Plays a Role in Your Mental Strength
+
 ## 环境会影响你的精神力量
 
 >If you wanted to be physically strong, working in a gym would likely inspire you to build muscle. Being surrounded by people lifting weights all day, may motivate you to get fitter. And if the gym offered access to personal trainers and opportunities to use the equipment whenever you wanted, you'd probably find it easy to build muscle.
@@ -61,8 +62,9 @@ Just the other day, I received an email that read, "I finally found the mental s
 
 所以需要细细思索，你现在的工作会支撑你提高精神力量的努力吗？或者，工作场所和同事会阻止你达到好的精神状态呢？
 
-##Remind Yourself Quitting Is a Choice
-##提醒自己辞职是一个选择
+## Remind Yourself Quitting Is a Choice
+
+## 提醒自己辞职是一个选择
 
 >If you quit your job with the mentality that you couldn't hack it, you'll struggle to reach your greatest potential. You might take a new job that's beneath your skills either because you think it's all you deserve or because you hope to find some success to boost your confidence.
 
@@ -81,6 +83,7 @@ Just the other day, I received an email that read, "I finally found the mental s
 “我辞掉工作是因为它不匹配我的诉求”，这种想法很有力量，远胜于认为“我无法再在这儿多坚持一秒钟”。承认自己的选择并且离开，在一定程度上让自己变得更好。
 
 ## Quit to Better Your Life
+
 ## 离开去更好的生活
 
 >If you are committed to building the best life you can, quitting may open the door to a better opportunity. Whether you seek more flexibility in your schedule or you want a more positive work environment, stepping into a healthier situation could promote your growth.
@@ -92,6 +95,7 @@ Just the other day, I received an email that read, "I finally found the mental s
 一个新的职位当然也可能会更匹配你的个人价值。薪水少一点但是让你有更多时间陪伴家人，像这样的工作可能会让你感觉到更有意义和目标。有目标的感觉是意志力强大的关键。
 
 ## Turn Quitting Into an Opportunity to Build Mental Strength
+
 ## 将辞职变成增强精神力量的机会
 
 >Staying in a job you hate may say more about your mental strength than quitting does. Is your self-worth dependent on how much money you make? Are you afraid of change? Have you convinced yourself you can't possibly be successful doing something else?
